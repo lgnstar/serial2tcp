@@ -1,0 +1,26 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+*.svn
+
+*.log
+*.bak
+
+# visualstudio
+Debug
+Release
+output
+Output
+*.ncb
+*.sdf
+*.user
+*.suo
+
+#source insight
+*.WK3
+*.SearchResults
+
+#android
+*o
+
